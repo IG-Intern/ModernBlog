@@ -20,7 +20,7 @@ function BlogHeader() {
           ModernBlog
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto animate-slide-up">
-          Read, reflect, repeat✨
+          Discover stories, insights, and ideas that matter to you
         </p>
         <div className="flex justify-center space-x-6">
           <div className="w-16 h-1 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full animate-scale"></div>
